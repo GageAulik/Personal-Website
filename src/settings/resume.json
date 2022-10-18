@@ -1,0 +1,130 @@
+{
+    "basics": {
+        "name": "Michael Gage Aulik",
+        "label": "Web Developer",
+        "email": "aulikgage@gmail.com",
+        "phone": "(612) 483-1505",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Designer",
+        "job2": "Developer",
+        "job3": "Producer",
+        "description": "Hello, I'm Gage! Your web development enthusiast. Always down for something new and challenging.",
+        "summary": "based in Minneapolis, Minnesota.",
+        "keywords": "personal,website,portfolio,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://kirbygage.com",
+        "location": {
+            "address": "ADDRESS",
+            "postalCode": "55436",
+            "city": "Minneapolis",
+            "country": "United States",
+            "countryCode": "US",
+            "region": "Minnesota"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "aulikgage@gmail.com",
+                "url": "mailto:aulikgage@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "gageaulik",
+                "url": "https://www.linkedin.com/in/gageaulik/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "GageAulik",
+                "url": "https://github.com/GageAulik",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Discord",
+                "username": "Kaars#1341",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Augsburg University",
+            "area": "Game Design",
+            "studyType": "Bachelor",
+            "startDate": "2018-01-01",
+            "endDate": "2022-05-04",
+            "gpa": "3.6",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "German",
+            "fluency": "Proficient"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
